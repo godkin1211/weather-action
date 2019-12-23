@@ -22,6 +22,6 @@ jobs:
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: Shanghai Weather Report
           body: file://result.html
-          to: nostalgie.chiu@genebook.com.tw
+          to: chiachun.chiu@gmail.com
           from: GitHub Actions
           content_type: text/html
